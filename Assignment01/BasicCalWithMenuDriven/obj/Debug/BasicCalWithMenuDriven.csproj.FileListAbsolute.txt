@@ -1,0 +1,7 @@
+E:\MyClasswoekPractice\Ms.net_Practice\HelloProject\BasicCalWithMenuDriven\bin\Debug\BasicCalWithMenuDriven.exe.config
+E:\MyClasswoekPractice\Ms.net_Practice\HelloProject\BasicCalWithMenuDriven\bin\Debug\BasicCalWithMenuDriven.exe
+E:\MyClasswoekPractice\Ms.net_Practice\HelloProject\BasicCalWithMenuDriven\bin\Debug\BasicCalWithMenuDriven.pdb
+E:\MyClasswoekPractice\Ms.net_Practice\HelloProject\BasicCalWithMenuDriven\obj\Debug\BasicCalWithMenuDriven.csproj.AssemblyReference.cache
+E:\MyClasswoekPractice\Ms.net_Practice\HelloProject\BasicCalWithMenuDriven\obj\Debug\BasicCalWithMenuDriven.csproj.CoreCompileInputs.cache
+E:\MyClasswoekPractice\Ms.net_Practice\HelloProject\BasicCalWithMenuDriven\obj\Debug\BasicCalWithMenuDriven.exe
+E:\MyClasswoekPractice\Ms.net_Practice\HelloProject\BasicCalWithMenuDriven\obj\Debug\BasicCalWithMenuDriven.pdb

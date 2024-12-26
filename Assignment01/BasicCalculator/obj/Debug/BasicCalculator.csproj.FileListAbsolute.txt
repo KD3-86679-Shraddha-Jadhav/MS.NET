@@ -1,0 +1,7 @@
+E:\MyClasswoekPractice\Ms.net_Practice\HelloProject\BasicCalculator\bin\Debug\BasicCalculator.exe.config
+E:\MyClasswoekPractice\Ms.net_Practice\HelloProject\BasicCalculator\bin\Debug\BasicCalculator.exe
+E:\MyClasswoekPractice\Ms.net_Practice\HelloProject\BasicCalculator\bin\Debug\BasicCalculator.pdb
+E:\MyClasswoekPractice\Ms.net_Practice\HelloProject\BasicCalculator\obj\Debug\BasicCalculator.csproj.AssemblyReference.cache
+E:\MyClasswoekPractice\Ms.net_Practice\HelloProject\BasicCalculator\obj\Debug\BasicCalculator.csproj.CoreCompileInputs.cache
+E:\MyClasswoekPractice\Ms.net_Practice\HelloProject\BasicCalculator\obj\Debug\BasicCalculator.exe
+E:\MyClasswoekPractice\Ms.net_Practice\HelloProject\BasicCalculator\obj\Debug\BasicCalculator.pdb
